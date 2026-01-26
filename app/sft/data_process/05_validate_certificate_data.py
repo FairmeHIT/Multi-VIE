@@ -31,6 +31,7 @@ target_type_num_mapping_en = {
 
 # Required fields for each certificate type
 # These are the expected keys that should be present in the 'result' field of the JSON
+# examples
 text_prompt_templates = {
     1: "\"获证单位名称\", \"首次发证日期\", \"本次发证日期\", \"有效期截止日期\", \"符合标准\", \"是否有签字\", \"是否有盖章\", \"印章名称\"",
     2: "\"获证单位名称\", \"首次发证日期\", \"本次发证日期\", \"有效期截止日期\", \"符合标准\", \"是否有签字\", \"是否有盖章\", \"印章名称\"",
